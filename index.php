@@ -85,7 +85,7 @@ http://www.templatemo.com/tm-492-app-starter
                     <div class="home-thumb">
                          <h1 class="wow fadeInUp" data-wow-delay="0.6s">Broom Express</h1>
                          <p class="wow fadeInUp" data-wow-delay="0.8s">The Broom Express is a local group of company that provides on same day delivery by connecting users with delivery drivers on its mobile and web application.</p>
-                         <a href="#pricing" class="wow fadeInUp section-btn btn btn-success smoothScroll" data-wow-delay="1s">Download App</a>
+                         <a href="https://broomexp.com/" class="wow fadeInUp section-btn btn btn-success smoothScroll" data-wow-delay="1s">Download Our App Now</a>
                     </div>
                </div>
 
@@ -115,7 +115,7 @@ http://www.templatemo.com/tm-492-app-starter
 
                <div class="wow fadeInUp col-md-3 col-sm-6" data-wow-delay="0.4s">
                     <div class="about-thumb">
-                         <img src="images/logo1 copy.png" style="width: 345px;" class="img-responsive" alt="Team">
+                         <!-- <img src="images/logo1 copy.png" style="width: 345px;" class="img-responsive" alt="Team"> -->
                               <!-- <div class="about-overlay">
                                    <h3>Sandar Lynn</h3>
                                    <h4>UI Designer</h4>
@@ -155,8 +155,8 @@ http://www.templatemo.com/tm-492-app-starter
           <div class="row">
 
                <div class="col-md-offset-2 col-md-8 col-sm-12">
-                    <h2 class="wow fadeInUp" data-wow-delay="0.4s">Praesent tempor nec orci eu condimentum. Vestibulum varius lorem sed odio lacinia, ut efficitur tellus convallis. Phasellus convallis est nisi, sit amet accumsan ipsum elementum quis. Mauris ac sem mi.</h2>
-                    <a href="#screenshot" class="wow fadeInUp section-btn btn btn-success smoothScroll" data-wow-delay="0.8s">Learn More</a>
+                    <h2 class="wow fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris diam nisi, vehicula non iaculis iaculis, iaculis sit amet ante. Aliquam auctor gravida nisi, non pulvinar libero posuere at. Aenean venenatis purus sit amet est fermentum laoreet. Proin pharetra hendrerit nunc in tincidunt. Suspendisse potenti. Curabitur feugiat eget diam nec vestibulum.</h2>
+                    <!-- <a href="#screenshot" class="wow fadeInUp section-btn btn btn-success smoothScroll" data-wow-delay="0.8s">Learn More</a> -->
                </div>
 
           </div>
@@ -173,7 +173,7 @@ http://www.templatemo.com/tm-492-app-starter
                <div class="col-md-offset-2 col-md-8 col-sm-12">
                     <div class="section-title">
                          <h1>App Screenshots</h1>
-                         <p class="wow fadeInUp" data-wow-delay="0.8s">Nulla nisi purus, ultrices et scelerisque at, ullamcorper et ex. Phasellus at nisi lobortis, semper tortor sed, gravida neque.</p>
+                         <p class="wow fadeInUp" data-wow-delay="0.8s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris diam nisi, vehicula non iaculis iaculis, iaculis sit amet ante. Aliquam auctor gravida nisi, non pulvinar libero posuere at. </p>
                     </div>
                </div>
 
